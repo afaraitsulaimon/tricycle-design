@@ -1,0 +1,499 @@
+#kekeNapep{
+
+    width:500px;
+    height:500px;
+    margin-top:70px;
+    margin-left:420px;
+    position:absolute;
+
+}
+
+#kekeNapep #kekeComponent{
+
+    width:450px;
+    height:300px;
+
+    margin-left:25px;
+    margin-top:50px;
+   
+
+}
+
+#kekeNapep #kekeComponent .part1{
+
+    width:100px;
+    height:300px;
+
+    margin-left:auto;
+  
+
+}
+
+#kekeNapep #kekeComponent .part1 .part1A{
+
+    width:90px;
+    height:120px;
+    background-color:#4f4c4b;
+    border-radius:0px 50px 0px 0px;
+   margin-left:10px;
+
+}
+
+#kekeNapep #kekeComponent .part1 .part1B{
+
+    width:100px;
+    height:140px;
+    background-color:#efc851;
+    border-radius:10px 0px 0px 0px;
+
+}
+
+#kekeNapep #kekeComponent .part1 .part1C{
+
+
+    width:100px;
+    height:40px;
+    background-color:#efc851;
+    position:absolute;
+
+}
+
+#kekeNapep #kekeComponent .part1 .part1C .part1C1{
+
+
+    width:90px;
+    height:30px;
+    background-color:white;
+    margin-left:5px;
+    margin-top:10px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+
+#kekeNapep #kekeComponent .part2{
+
+    width:100px;
+    height:300px;
+    background-color:#efc851;
+    margin-top:-300px;
+    margin-left:250px;
+  
+
+}
+
+
+#kekeNapep #kekeComponent .part2A{
+
+    width:120px;
+    height:20px;
+    background-color:#4f4c4b;
+  
+
+}
+
+#kekeNapep #kekeComponent .part2B{
+
+    width:100px;
+    height:100px;
+    background-color:white;
+    border-radius: 0px 
+  
+
+}
+
+#kekeNapep #kekeComponent .part2C{
+
+    width:100px;
+    height:165px;
+    background-color:white;
+    border-radius: 0px 0px 20px 20px;
+     position:absolute;
+
+}
+
+#kekeNapep #kekeComponent .part2C .part2C1{
+
+    width:20px;
+    height:10px;
+    background-color:#4f4c4b;
+    margin-left:80px;
+    margin-top:60px;
+
+}
+
+
+#kekeNapep #kekeComponent .part2D{
+
+    width:100px;
+    height:15px;
+    background-color:#DB4437;
+    border-radius: 0px 
+  
+
+}
+
+#kekeNapep #kekeComponent .part3{
+
+    width:5px;
+    height:300px;
+    margin-top:-300px;
+    margin-left:245px;
+    background-color:red;
+     
+  
+
+}
+
+
+#kekeNapep #kekeComponent .part3 .part3A{
+
+    width:5px;
+    height:120px;
+    background-color:#4f4c4b;
+     
+  
+
+}
+
+#kekeNapep #kekeComponent .part3 .part3B{
+
+    width:5px;
+    height:180px;
+    background-color:#efc851;
+     
+  
+
+}
+
+#kekeNapep #kekeComponent .part4{
+
+    width:30px;
+    height:300px;
+     margin-top:-300px;
+    margin-left:215px;
+     
+  
+
+}
+
+#kekeNapep #kekeComponent .part4 .part4A{
+
+    width:30px;
+    height:20px;
+    background-color:#4f4c4b;
+  
+     
+  
+
+}
+
+#kekeNapep #kekeComponent .part4 .part4B{
+
+    width:30px;
+    height:170px;
+    border-radius: 0px 0px 10px 0px;
+    position:absolute;
+  
+
+}
+
+#kekeNapep #kekeComponent .part4 .part4B .part4B1{
+
+    width:6px;
+    height:10px;
+    background-color:#4f4c4b;
+    margin-left:24px;
+     margin-top:90px;
+
+}
+
+
+#kekeNapep #kekeComponent .part4 .part4B .part4B2{
+
+    width:6px;
+    height:20px;
+    background-color:#4f4c4b;
+margin-left:24px;
+
+}
+
+#kekeNapep #kekeComponent .part4 .part4new{
+
+    width:30px;
+    height:50px;
+
+}
+
+
+#kekeNapep #kekeComponent .part4 .part4new1{
+
+    width:30px;
+    height:20px;
+    background-color:#efc851;
+    margin-top:210px;
+
+}
+
+
+#kekeNapep #kekeComponent .part4 .part4new2{
+
+    width:30px;
+    height:90px;
+    background-color:#efc851;
+    margin-top:-110px;
+
+
+}
+
+
+#kekeNapep #kekeComponent .part5{
+
+    width:130px;
+    height:300px;
+
+    margin-top:-300px;
+    margin-left:85px;
+}
+
+#kekeNapep #kekeComponent .part5 .part5A{
+
+    width:130px;
+    height:20px;
+    background-color:#4f4c4b;
+
+}
+
+
+#kekeNapep #kekeComponent .part5 .part5B{
+
+    width:130px;
+    height:155px;
+
+
+}
+
+#kekeNapep #kekeComponent .part5 .part5C{
+
+    width:100px;
+    height:15px;
+    background-color:#4f4c4b;
+    margin-left:60px;
+    border-radius:5px 5px 5px 0;
+ 
+
+}
+
+
+#kekeNapep #kekeComponent .part5 .part5D{
+
+    width:130px;
+    height:110px;
+    background-color:white;
+   
+ 
+
+}
+
+
+#kekeNapep #kekeComponent .part5 .part5D .part5D1{
+
+    width:57px;
+    height:100px;
+  
+    border-radius:0 0 0 10px;
+ 
+
+}
+
+#kekeNapep #kekeComponent .part5 .part5D .part5D2{
+
+    width:16px;
+    height:100px;
+    background-color:#4f4c4b;
+    margin-top:-100px;
+    margin-left:65px;
+ 
+
+}
+
+
+#kekeNapep #kekeComponent .part5 .part5D .part5D3{
+
+    width:57px;
+    height:110px;
+  
+    margin-top:-110px;
+    margin-left:73px;
+ 
+
+}
+
+
+#kekeNapep #kekeComponent .part5 .part5D .part5D4{
+
+    width:130px;
+    height:20px;
+   background-color:#efc851;
+  margin-top:-10px;
+ 
+
+}
+
+#kekeNapep #kekeComponent .part6{
+
+    width:85px;
+    height:300px;
+    background-color:white;
+    margin-top:-300px;
+    position:absolute;
+    
+ 
+}
+
+
+#kekeNapep #kekeComponent .part6 .part6A{
+
+    width:60px;
+    height:100px;
+    background-color:white;
+    position:absolute;
+     border-radius:100px 0 30px 0;
+     border-top: 1px solid #e5e4e0;
+     border-left: 1px solid #e5e4e0;
+   margin-left:15px;
+ 
+ 
+}
+
+
+#kekeNapep #kekeComponent .part6 .part6A .part6A1{
+
+    width:10px;
+    height:102px;
+    background-color: #efc851;
+    margin-left:60px;
+    margin-top:-2px;
+
+ 
+}
+
+
+
+#kekeNapep #kekeComponent .part6 .part6B{
+
+    width:70px;
+    height:200px;
+    background-color:#efc851;
+    margin-top:100px;
+    border-radius:0px 0 0 80px;
+    margin-left:15px;
+
+    
+ 
+}
+
+
+#kekeNapep #kekeComponent .part6 .part6B1{
+
+    width:30px;
+    height:10px;
+    background-color:#e0563a;
+     margin-left:10px;
+ 
+}
+ 
+#kekeNapep #tyres{
+   
+    width:500px;
+    height:100px;
+    margin-top:10px;
+    position:absolute;
+
+}
+
+
+#kekeNapep #tyres .tyresA{
+   
+    width:90px;
+    height:10px;
+    background-color:#efc851;
+    border-radius:40px 40px 0 0;
+    transform: rotate(30deg);
+        margin-top:-20px;
+      margin-left:27px;
+
+
+}
+
+#kekeNapep #tyres .tyresB{
+   
+    width:60px;
+    height:60px;
+    background-color:#4f4c4b;
+    position:absolute;
+    margin-top:-10px;
+    margin-left:18px;
+    border-radius:50%;
+}
+
+
+#kekeNapep #tyres .tyresB1{
+   
+    width:40px;
+    height:40px;
+    background-color:white;
+    margin-left:10px;
+    margin-top:10px;
+    border-radius:50%;
+
+
+}
+
+#kekeNapep #tyres .tyresB2{
+   
+    width:20px;
+    height:20px;
+    background-color:white;
+    margin-top:-30px;
+    margin-left:19px;
+    border: 1px solid #4f4c4b;
+      border-radius:50%;
+}
+
+
+
+#kekeNapep #tyres .tyresC{
+   
+   width:60px;
+    height:60px;
+    background-color:#4f4c4b;
+    margin-left:380px;
+    position:absolute;
+    margin-top:-40px;
+        border-radius:50%
+
+}
+
+
+#kekeNapep #tyres .tyresC .tyresC1{
+   
+   width:40px;
+    height:40px;
+    background-color:white;
+    margin-left:10px;
+    margin-top:10px;
+    border-radius:50%
+
+}
+
+#kekeNapep #tyres .tyresC .tyresC2{
+   
+   width:20px;
+    height:20px;
+    background-color:white;
+    margin-top:-30px;
+    margin-left:19px;
+    border-radius:50%;
+    border:1px solid #4f4c4b;
+}
