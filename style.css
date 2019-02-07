@@ -497,3 +497,120 @@ margin-left:24px;
     border-radius:50%;
     border:1px solid #4f4c4b;
 }
+
+#button{
+
+    width: 450px;
+    height: 70px;
+    margin: auto;
+}
+
+#button .button-scatter{
+
+    width: 150px;
+    height: 70px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+
+#button .button-scatter input[type='submit']{
+
+    width: 110px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 2px solid blue;
+
+    
+    
+}
+
+
+#button .button-scatter input[type='submit']:hover{
+
+  cursor: pointer;
+  background-color: red;
+  border-color: black;
+  color: white;
+
+    
+}
+
+
+
+#button .button-reset{
+
+    width: 150px;
+    height: 70px;
+    margin-top: -90px;
+    margin-left: 150px;
+     font-weight: bold;
+    text-align: center;
+        padding-top: 20px;
+
+    
+}
+
+#button .button-reset input[type='submit']{
+
+    width: 110px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 10px;
+     border: 2px solid #626466;
+
+
+    
+}
+
+#button .button-reset input[type='submit']:hover{
+
+  cursor: pointer;
+  background-color: #626466;
+  border:2px dotted white;
+  color: white;
+
+    
+}
+
+
+
+#button .button-color{
+
+    width: 150px;
+    height: 70px;
+   margin-top: -90px;
+   margin-left: 300px;
+    font-weight: bold;
+    text-align: center;
+        padding-top: 20px;
+
+    
+}
+
+#button .button-color input[type='submit']{
+
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+        border-radius: 10px;
+        border: 2px solid green;
+
+    
+}
+
+
+#button .button-color input[type='submit']:hover{
+
+  cursor: pointer;
+  background-color: blue;
+  border-color: red;
+  color: white;
+
+    
+}
+
+
