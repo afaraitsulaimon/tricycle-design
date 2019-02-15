@@ -329,3 +329,59 @@ $('#color-btn') .click(function(){
 });
 
 
+$(function () {
+	$("#mleft-btn").click(function () {
+		moveRight();		
+	});
+
+	function moveRight() {
+		$("#kekeNapep").animate({
+			left: 400
+		}, 500, moveDown);
+	}
+	function moveDown() {
+		$("#kekeNapep").animate({
+			top: 400
+		}, 1000, moveLeft);
+	}
+
+	function moveLeft() {
+		$("#kekeNapep").animate({
+			left: 0
+		}, 2000, moveUp);
+	}
+
+	function moveUp() {
+		$("#kekeNapep").animate({
+			top: 0
+		}, 500, moveRight);
+	}
+});
+
+
+
+$(function(){
+
+   $('#mforward-btn') .click(function()  {
+         moveToRight();
+   });
+
+   function moveToRight(){
+
+      $("#kekeNapep") .animate({
+
+      	 left:500
+      }, 500 , moveToLeft);
+
+   }
+
+   function moveToLeft(){
+
+   	$("#kekeNapep") .animate({
+
+   		left:0
+   	},1000);
+
+   }
+
+});
