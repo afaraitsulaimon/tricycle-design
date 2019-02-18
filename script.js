@@ -329,34 +329,7 @@ $('#color-btn') .click(function(){
 });
 
 
-$(function () {
-	$("#mleft-btn").click(function () {
-		moveRight();		
-	});
 
-	function moveRight() {
-		$("#kekeNapep").animate({
-			left: 400
-		}, 500, moveDown);
-	}
-	function moveDown() {
-		$("#kekeNapep").animate({
-			top: 400
-		}, 1000, moveLeft);
-	}
-
-	function moveLeft() {
-		$("#kekeNapep").animate({
-			left: 0
-		}, 2000, moveUp);
-	}
-
-	function moveUp() {
-		$("#kekeNapep").animate({
-			top: 0
-		}, 500, moveRight);
-	}
-});
 
 
 
@@ -379,7 +352,7 @@ $(function(){
 
    	$("#kekeNapep") .animate({
 
-   		left:0
+   		left:-500
    	},1000);
 
    }
